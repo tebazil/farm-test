@@ -1,0 +1,16 @@
+{
+    "name": "tebazil/farm-test",
+    "type": "project",
+    "authors": [
+        {
+            "name": "tebazil",
+            "email": "vasiliy.baukin@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "": ""
+        }
+    }
+}
